@@ -1,0 +1,356 @@
+body{
+	
+	margin:0;
+	
+}
+html{
+	
+	
+}
+
+
+.main-header{
+	width:100%;
+	background:  #f7f7f7; 
+	 opacity: 0.9;
+	/* min-height:20%; */
+	/* height:20%; */
+	display:block;
+	
+
+}
+.none{
+	display:none;
+	
+	
+}
+
+.logo{
+	
+	margin: auto;
+	width:100%;
+	
+	
+	
+}
+
+
+.link-logo{
+	width:70%;
+	margin: auto;
+	display:flex;
+	line-height:5vw;
+	vertical-align:middle;
+}
+
+
+.logo img{
+	
+	
+	
+	width:18%;
+	height:18%;
+}
+
+ .name {
+	
+	
+	
+	font-size:4vw;
+}
+
+.logo-text{
+	margin-top:-4%;
+	margin-right:2%;
+	font-size:6vw;
+	
+}
+
+
+
+
+
+
+.contacts{
+	/* border: 1px solid red; */
+	width:55%;
+	margin: 0 auto;
+	
+	display:flex;
+}
+
+
+
+.namber a{
+	width:60%;
+	font-size: 5vw;
+	cursor: default;
+	color:red;
+	text-decoration: none; 
+}
+
+
+.info{
+	margin-top:-2%;
+	text-align:center;
+	font-size:3.5vw;
+	
+}
+
+
+
+.messengers{
+	width:10%;
+	/* border: 1px solid blue; */
+	position:absolute;
+	
+	top:40%;
+	left:80%;
+	
+}
+
+
+
+
+.icon_w{
+	
+	width:40px;
+	height:40px;
+	background:url(../img/whatsapp.png) no-repeat;
+	background-size:contain;
+	
+	
+}
+
+.icon_v{
+	margin-top:5px;
+	width:40px;
+	height:40px;
+	background:url(../img/viber.png) no-repeat;
+	
+	background-size:contain;
+
+	
+	
+}
+
+
+.contacts{
+	
+	margin-top:-3%;
+}
+
+
+
+
+.content{
+	
+	width:100%;
+	margin-top:46%;
+	text-align:center;
+}
+
+.content h1{
+	
+	font-size:25px;
+}
+
+.podkluchaem {
+	font-size:15px;
+	
+	
+}
+
+.content p{
+	font-size:20px;
+	
+	
+}
+
+.connect{width:100%;
+
+background:yellow;
+text-align:center;
+}
+
+
+.connect h3{
+	
+	padding-top:2%;
+		font-size:30px;
+		
+	
+	margin-left:5%;
+}
+.ukaz{
+		font-size:15px;
+		
+	
+	margin-left:5%;
+	
+	
+}
+.form{
+	width:90%;
+	margin:auto;
+	margin-left:5%;
+	border:none;
+	
+}
+.phone{
+	
+	border:none;
+	text-align:center;
+	
+	font-size:25px;
+	
+	
+	width:90%;
+	height:50px;	
+}
+
+.submit{
+	
+	margin-top:10px;
+	color:white;
+	background:black;
+	border:none;
+	border-radius:20px;
+	margin-left:4%;
+	border:none;
+	font-size:20px;
+	width:80%;
+	height:50px;
+	
+}
+
+.agreement{
+	
+	font-size:12px;
+	padding-bottom:10px;
+	
+	
+	
+}
+
+.agregators-logo{
+	
+	width:80%;
+	display:block;
+	margin:auto;
+}
+
+/* footer index html */
+.footer{
+	/* background:#00ace8; */
+	background: linear-gradient(to right, #00ace8, #f1da36);
+	/* height:100%; */
+	/* vertical-align:30px; */
+}
+
+.footer p{
+	text-align:center;
+	display:block;
+	padding:0;
+	margin:0;
+	
+	
+	
+	
+}
+
+
+ /* страница form.html */
+ 
+ 
+ 
+ 
+ .form-header{
+	 
+	 width:100%;
+	 
+ }
+ 
+ 
+ 
+ .border-top{
+	 margin:0 auto ;
+	 margin-top:5%;
+	 width:30%;
+	 border-top:1px dotted black;
+	 
+	 
+	 
+ }
+ 
+ 
+ .content-form{
+	 
+	 
+	 font-family:Arial Narrow;
+	 font-weight: 50;
+	text-align:center;
+	margin:0 auto ;
+	width:70%;
+
+ }
+ 
+  .content-form h1{ 
+  margin-top:5%;
+  font-weight: 50;
+	  
+	  
+  }
+  
+   .content-form h3{ 
+  margin-top:3%;
+  font-weight: 100;
+	   
+  }
+  
+  
+   .border-bottom{
+	 margin:0 auto ;
+	 margin-top:5%;
+	 width:30%;
+	 border-top:1px dotted black; 
+ }
+ 
+ 
+ 
+   /* страница AGREEMENT */
+  
+  
+ .content-agreement{
+	
+	
+	text-align:center;
+	font-family:Arial Narrow;
+	 font-weight: 50;
+	text-align:center;
+	margin:45%  auto ;
+	width:80%;font-size:20px;
+ }
+ 
+  .content-agreement  h1{
+	  
+	  font-size:30px;
+	  
+  }
+  
+  /* страницы oferta */
+  .content-oferta{
+	
+	
+	/* text-align:center; */
+	font-family:Arial Narrow;
+	 font-weight: 50;
+	
+	margin:45% auto ;
+	width:100%;font-size:20px;
+  }
+  
+  
+  
+}
+  

@@ -1,0 +1,457 @@
+body{
+	font-family:Arial Narrow;
+	margin:0;
+	
+}
+html{
+	
+	
+}
+
+
+.main-header{
+	/* line-height:5px; */
+	
+	background:#f7f7f7;
+	 opacity: 0.9; 
+	display:flex;
+	position: fixed;
+	width:100%;
+	top:0;
+	 font-weight: 800;
+	 border-bottom:3px groove grey;
+	 border-bottom-color: black; linear-gradient(to right, #00ace8, #f1da36);
+
+	
+}
+
+
+.none{
+	display:none;
+	
+	
+}
+
+.logo{
+	
+	/* border:1px solid red; */
+	width:30%;
+	
+	
+	
+}
+
+.logo a{
+	
+	color:black;
+	text-decoration: none;
+}
+
+ .name {
+	margin-top:8%;
+	
+	margin-right:2%;
+	font-size:1.2em;
+	
+	
+}
+
+
+
+.logo-text{
+	/* margin-top:0%; */
+	margin-left:2%;
+	font-size:1.4em;
+	
+}
+
+.sevis{
+	
+	margin-left:12%
+		
+		
+	
+}
+
+.link-logo{
+	margin-left:2%;
+	display:flex;
+}
+.logo-text{
+	
+	
+	
+}
+
+.logo img{
+	
+	margin:1%;
+}
+
+
+
+
+.contacts{
+	margin-left:35%;
+	
+	
+}
+
+
+.namber{}
+.namber a{
+	
+	
+	font-size:2.5em;
+	/* cursor: default; */
+	color:black;
+	text-decoration: none; 
+}
+
+
+
+
+.info{
+	
+	text-align:center;
+	font-size:20px;
+	
+}
+.info h3{
+	margin-bottom:0;
+	
+	
+}
+
+.messengers{
+	
+	margin-top:0.2%;
+	margin-left:5px;
+	
+	
+}
+
+.icon_w{
+	
+	width:50px;
+	height:50px;
+	background:url(../img/whatsapp.png) no-repeat;
+	background-size:contain;
+	
+	
+}
+
+.icon_v{
+	margin-top:5px;
+	width:50px;
+	height:50px;
+	background:url(../img/viber.png) no-repeat;
+	
+	background-size:contain;
+
+	
+	
+}
+
+.contacts{
+	
+	
+}
+
+
+
+.content,.main{
+	
+	width:100%;
+	margin-top:10%;
+	text-align:center;
+}
+
+
+.content h1{
+	
+	font-size:25px;
+}
+
+.podkluchaem {
+	font-size:2px;
+	
+	
+}
+
+.content p{
+	font-size:20px;
+	
+	
+}
+
+.connect{width:100%;
+
+background:yellow;
+}
+
+
+.connect h3{
+	
+	padding-top:2%;
+		font-size:30px;
+		
+	
+	margin-left:5%;
+}
+.ukaz{
+		font-size:20px;
+		
+	
+	margin-left:5%;
+	
+	
+}
+.form{
+	margin-left:5%;
+	border:none;
+	
+}
+.phone{
+	
+	border:none;
+	text-align:center;
+	
+	font-size:25px;
+	width:25%;
+	height:50px;	
+}
+
+.submit{
+	color:white;
+	background:black;
+	border:none;
+	border-radius:20px;
+	margin-left:4%;
+	border:none;
+	font-size:20px;
+	width:25%;
+	height:50px;
+	
+}
+
+.agreement{
+	
+	font-size:12px;
+	padding-bottom:10px;
+	
+	
+	
+}
+
+.agregators-logo{
+	
+	
+	display:flex;
+	justify-content:space-around;
+	
+}
+
+
+
+.footer{
+	/* background:#00ace8; */
+	background: linear-gradient(to right, #00ace8, #f1da36);
+	
+	
+}
+
+.footer p{
+	display:inline-block;
+	/* line-height: 0; */
+	font-size:14px;
+	padding-left:5%;
+	/* vertical-align:100px; */
+	
+}
+
+ /* страница form.html */
+ 
+ 
+ 
+ 
+ .form-header{
+	 
+	 width:100%;
+	 
+ }
+ 
+ 
+ 
+ .border-top{
+	 margin:0 auto ;
+	 margin-top:5%;
+	 width:30%;
+	 border-top:1px dotted black;
+	 
+	 
+	 
+ }
+ 
+ 
+ .content-form{
+	 
+	 
+	 font-family:Arial Narrow;
+	 font-weight: 50;
+	text-align:center;
+	margin:0 auto ;
+	width:70%;
+
+ }
+ 
+  .content-form h1{ 
+  margin-top:5%;
+  font-weight: 50;
+	  
+	  
+  }
+  
+   .content-form h3{ 
+  margin-top:3%;
+  font-weight: 100;
+	   
+  }
+  
+  
+   .border-bottom{
+	 margin:0 auto ;
+	 margin-top:5%;
+	 width:30%;
+	 border-top:1px dotted black; 
+ }
+ 
+   /* страница AGREEMENT */
+  
+  
+ .content-agreement{
+	width:100%;
+	margin-top:10%;
+	text-align:center;
+	font-family:Arial Narrow;
+	 font-weight: 50;
+	text-align:center;
+	margin:10% auto ;
+	width:70%;font-size:20px;
+ }
+ 
+  .content-agreemen  p{
+	  
+	  
+	  
+  }
+/* страница договор оферта */
+
+
+	.content-oferta{
+	width:100%;
+	
+	text-align:justify;
+	font-family:Arial Narrow;
+	 font-weight: 50;
+	
+	margin:10% auto ;
+	width:70%;font-size:20px;
+
+	}
+	
+	ul{
+	list-style: none;
+	padding-left:5px;
+	padding-right:10px;
+}
+
+
+	li{
+		
+		padding-top:10px;
+	}
+	
+	/* ol{ */
+  /* counter-reset:  item; */
+  /* list-style-type: none; */
+/* } */
+/* ol > li:before { */
+  /* counter-increment: item; */
+  /* content: counter(item) ". "; */
+  /* font-weight: bold; */
+  /* position:relative; */
+  /* top:48px; */
+  /* left:-22px; */
+  
+
+
+.treaty{
+	text-align:center;
+	
+	
+}
+
+.ip{margin-top:60px;
+	text-align:center;
+}
+
+.moskow-size {
+	 font-size:18px;
+	 
+ }
+ 
+ .link-oferta{
+	 
+	 color:black;
+	text-decoration: none;
+ }
+ 
+ 
+ .attachmen{
+	 padding-top:30px;
+	 
+	 
+ }
+	
+
+
+ .link-oferta{
+	 
+	 color:blue;
+	 
+	 
+	 }
+	 .link-oferta:hover {
+     color: grey; /* Цвет ссылки при наведении на нее курсора мыши */  
+	  
+	 }
+     .linkGitHub a {
+		 
+		 font-family:arial;
+		 font-size:16px;
+		color :black;
+		padding:0;
+		margin-left:5%;
+		float:right;
+		
+		
+	} 
+	 
+	 
+	 
+	 
+ 
+ 
+ 
+
+
+
+
+
+	
+	
+	
+	
+	
+ 
