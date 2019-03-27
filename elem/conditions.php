@@ -1,4 +1,4 @@
-
+<?php  $title = "Подключение к яндекс гетт ситимобил";?>
 
 		<div class="content">
 		
@@ -100,4 +100,4 @@
 			<img src="img/citymobil-logo-ru.gif" width="300" height="">
 		</div>
 		</div>
-		
+		<div class="linkGitHub"><a href = "https://github.com/tsybinn/">link to GitHub</a></div>

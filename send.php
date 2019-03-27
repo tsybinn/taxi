@@ -14,7 +14,7 @@ if((isset($_POST['phone'])&&$_POST['phone']!="")){ //Проверка отпра
                 </html>'; //Текст нащего сообщения можно использовать HTML теги
         $headers  = "Content-type: text/html; charset=utf-8 \r\n"; //Кодировка письма
 		
-		header("Location: form.html"); /* Перенаправление браузера */
+		header("Location: index.php?form"); /* Перенаправление браузера */
         $headers .= "From: заявка на подключение <taxi@taxi999.ru>\r\n"; //Наименование и почта отправителя
         mail($to, $subject, $message, $headers); //Отправка письма с помощью функции mail
 }

@@ -2,6 +2,7 @@ body{
 	font-family:Arial Narrow;
 	margin:0;
 	
+	
 }
 html{
 	
@@ -256,6 +257,12 @@ background:yellow;
 
 .footer{
 	/* background:#00ace8; */
+	
+	position: absolute;
+   
+  
+   width: 100%;
+   
 	background: linear-gradient(to right, #00ace8, #f1da36);
 	
 	
@@ -429,18 +436,26 @@ background:yellow;
      .linkGitHub a {
 		 
 		 font-family:arial;
-		 font-size:16px;
+		 font-size:14px;
 		color :black;
 		padding:0;
-		margin-left:5%;
-		float:right;
+		margin-left:1%;
+		#float:right;
 		
 		
 	} 
 	 
 	 
 	 
+ .ok {
+	margin-top:150px; 
+	margin-bottom:100px; 
+	
+
 	 
+	 
+ }
+ 
  
  
  
