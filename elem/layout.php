@@ -66,7 +66,7 @@
 	
 
 	
-<?= $content ?> 
+<?=$content ?>
 
 
 
