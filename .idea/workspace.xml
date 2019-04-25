@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6deeb5c4-5a8b-44c4-bc2e-cc29b0dd52dd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mstyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elem/404.php" beforeDir="false" afterPath="$PROJECT_DIR$/elem/404.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elem/conditions.php" beforeDir="false" afterPath="$PROJECT_DIR$/elem/conditions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elem/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/elem/footer.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +16,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/elem/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="154">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -38,8 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/elem/conditions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="88" column="26" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="26" />
+            <state relative-caret-position="410">
+              <caret line="104" selection-start-line="104" selection-end-line="104" />
               <folding>
                 <element signature="n#div#0;n#!!top" />
                 <element signature="n#div#1;n#!!top" />
@@ -51,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="253" column="5" selection-start-line="253" selection-start-column="5" selection-end-line="253" selection-end-column="5" />
+            <state relative-caret-position="434">
+              <caret line="274" column="16" selection-start-line="274" selection-start-column="16" selection-end-line="274" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -69,8 +65,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/mstyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="248" column="4" selection-start-line="248" selection-start-column="4" selection-end-line="250" selection-end-column="13" />
+            <state relative-caret-position="236">
+              <caret line="244" selection-start-line="244" selection-end-line="244" />
             </state>
           </provider>
         </entry>
@@ -80,10 +76,10 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>&lt;a</find>
-      <find>footer</find>
       <find>agregators-logo</find>
       <find>link</find>
       <find>agregators</find>
+      <find>footer</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -95,9 +91,9 @@
         <option value="$PROJECT_DIR$/elem/layout.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/elem/404.php" />
-        <option value="$PROJECT_DIR$/css/mstyle.css" />
-        <option value="$PROJECT_DIR$/elem/footer.php" />
         <option value="$PROJECT_DIR$/elem/conditions.php" />
+        <option value="$PROJECT_DIR$/elem/footer.php" />
+        <option value="$PROJECT_DIR$/css/mstyle.css" />
         <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
@@ -113,7 +109,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="267" />
     <option name="y" value="278" />
     <option name="width" value="871" />
@@ -130,16 +126,6 @@
             <path>
               <item name="taxi" type="b2602c69:ProjectViewProjectNode" />
               <item name="taxi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taxi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taxi" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taxi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taxi" type="462c0819:PsiDirectoryNode" />
-              <item name="elem" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -178,12 +164,12 @@
       <option name="presentableId" value="Default" />
       <updated>1556117100394</updated>
       <workItem from="1556117101968" duration="4771000" />
-      <workItem from="1556205701261" duration="1903000" />
+      <workItem from="1556205701261" duration="4868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6674000" />
+    <option name="totallyTimeSpent" value="9639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -239,17 +225,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elem/404.php">
+    <entry file="file://$PROJECT_DIR$/elem/conditions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/mstyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="248" column="4" selection-start-line="248" selection-start-column="4" selection-end-line="250" selection-end-column="13" />
+        <state relative-caret-position="410">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+          <folding>
+            <element signature="n#div#0;n#!!top" />
+            <element signature="n#div#1;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -262,26 +245,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/elem/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="154">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elem/conditions.php">
+    <entry file="file://$PROJECT_DIR$/elem/404.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="88" column="26" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="26" />
-          <folding>
-            <element signature="n#div#0;n#!!top" />
-            <element signature="n#div#1;n#!!top" />
-          </folding>
+        <state relative-caret-position="44">
+          <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/mstyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="244" selection-start-line="244" selection-end-line="244" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="253" column="5" selection-start-line="253" selection-start-column="5" selection-end-line="253" selection-end-column="5" />
+        <state relative-caret-position="434">
+          <caret line="274" column="16" selection-start-line="274" selection-start-column="16" selection-end-line="274" selection-end-column="16" />
         </state>
       </provider>
     </entry>

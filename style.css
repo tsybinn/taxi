@@ -1,7 +1,6 @@
 body{
 	font-family:Arial Narrow;
 	margin:0;
-
 	
 }
 html{
@@ -260,7 +259,6 @@ background:yellow;
 
 .footer{
 	/* background:#00ace8; */
-	#display:flex;
 	position: absolute;
 	width: 100%;
 	bottom:0;
@@ -272,7 +270,7 @@ background:yellow;
 .footer p{
 	display:inline-block;
 	/* line-height: 0; */
-	font-size:12px;
+	font-size:14px;
 	padding-left:5%;
 	/* vertical-align:100px; */
 	
